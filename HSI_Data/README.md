@@ -1,1 +1,2 @@
-# Kmeans_Segmentation_for_Peanut_HSI
+# Add your data here and then delete THIS readme file
+you could also ignore this directory and apply the path where your HSI data is in the Demo.py file. You will need to follow the instructions in the comments in the Demo.py file in order for the code to run
