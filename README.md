@@ -1,1 +1,1 @@
-# Kmeans_Segmentation_for_Peanuts
+# Kmeans_Segmentation_for_Peanut_HSI
